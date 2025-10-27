@@ -95,6 +95,10 @@ p { margin-bottom: 16px; color: #263b33; }
   margin-top: 12px;
 }
 
+#beneficios #hidroponia {
+  margin-top: 20px;
+}
+
 .plant {
   width: 120px;
   height: 140px;
